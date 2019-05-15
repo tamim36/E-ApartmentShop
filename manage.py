@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# C:\Users\tamim\PyProjects\E_ApartmentShop\venv\Scripts\activate.bat
 import os
 import sys
 
