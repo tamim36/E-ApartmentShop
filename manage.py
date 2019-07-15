@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # C:\Users\tamim\PyProjects\E_ApartmentShop\venv\Scripts\activate.bat
 # cd PyProjects\E_ApartmentShop\
-# 42 0min start
+# 43 0min start
 import os
 import sys
 
