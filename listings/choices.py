@@ -31,4 +31,5 @@ state_choices = {
     'AL' : 'Alabama',
     'AZ' : 'Arizona',
     'AR' : 'Arkansas',
+    'MA' : 'Maria Atlas'
 }
